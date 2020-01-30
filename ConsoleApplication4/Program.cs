@@ -28,7 +28,7 @@ namespace ConsoleApplication4
             Department dept = new Department(deptName);
             Worker worker = new Worker(name, level, baseSalary, dept);
 
-            Console.Write("How  many contracts to tjis worker? ");
+            Console.Write("How  many contracts to this worker? ");
 
             int n = int.Parse(Console.ReadLine());
 
