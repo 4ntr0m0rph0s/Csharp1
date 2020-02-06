@@ -1,0 +1,6 @@
+c:\users\8081\documents\visual studio 2015\Projects\loja\loja\bin\Debug\loja.exe.config
+c:\users\8081\documents\visual studio 2015\Projects\loja\loja\obj\Debug\loja.csprojResolveAssemblyReference.cache
+c:\users\8081\documents\visual studio 2015\Projects\loja\loja\bin\Debug\loja.exe
+c:\users\8081\documents\visual studio 2015\Projects\loja\loja\bin\Debug\loja.pdb
+c:\users\8081\documents\visual studio 2015\Projects\loja\loja\obj\Debug\loja.exe
+c:\users\8081\documents\visual studio 2015\Projects\loja\loja\obj\Debug\loja.pdb
